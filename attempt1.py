@@ -10,3 +10,4 @@ y=11
 print(x+y)
 
 print("Hi")
+summary("Hi")
